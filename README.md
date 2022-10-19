@@ -1,1 +1,1 @@
-this repository contains solutions to the shell tasks
+solutions to shell variables expansion project
